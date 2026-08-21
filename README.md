@@ -47,37 +47,36 @@ Customers
             └── Order Items
                     │
                     └── Products
-                            │
                             └── Categories
-
+```
 ---
 
 ## 📸 SQL Analysis Results
 
 ### 🏆 Top 3 Customers by Spending
 
-![Top 3 Customers](screenshots/top-3-customers.png)
+![Top 3 Customers](top-3-customers.png)
 
 ---
 
 ### 💰 Revenue by Category
 
-![Revenue by Category](screenshots/revenue-by-category.png)
+![Revenue by Category](revenue-by-category.png)
 
 ---
 
 ### 📅 Monthly Revenue
 
-![Monthly Revenue](screenshots/monthly-revenue.png)
+![Monthly Revenue](monthly-revenue.png)
 
 ---
 
 ### 🛍️ Product Performance
 
-![Product Performance](screenshots/product-performance.png)
+![Product Performance](product-performance.png)
 
 ---
 
 ### 📊 Revenue & Average Order Value
 
-![Revenue and AOV](screenshots/revenue-and-aov.png)
+![Revenue and AOV](revenue-and-aov.png)
